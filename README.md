@@ -42,7 +42,7 @@ Supply your sanity.io tokens to `gatsby-source-sanity` options in `gatsby-config
     }
 ```
 
-### Clone the customised Sanity Studio for Flat Magazine [HERE](https://github.com/damnitrahul/sanity-studio-flat-magazine)
+### Clone the customised Sanity Studio for Flat Magazine [HERE](https://github.com/uitlegion/sanity-studio-flat-magazine)
 
 Setup the Studio with your credential, Deploy GraphQL API and Start publishing your content
 
